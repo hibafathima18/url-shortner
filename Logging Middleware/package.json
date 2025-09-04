@@ -1,0 +1,8 @@
+{
+  "name": "custom-logging-middleware",
+  "version": "1.0.0",
+  "description": "A custom middleware for logging to the evaluation server.",
+  "main": "logger.js",
+  "author": "",
+  "license": "ISC"
+}
